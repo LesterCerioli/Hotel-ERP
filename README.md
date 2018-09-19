@@ -21,7 +21,7 @@ The entire code for the SmartHotel360 application is maintained on GitHub at htt
 
 --------
 **How can I deploy the application to my subscription?**                  
-Please follow the exercises below in order to deploy your application. Note that we only have pipeline for deploying the "Public Web" application.
+Please follow the exercises below to deploy the "Public Web" application.
 
 ### Exercise 1: Endpoint Creation:
 Service endpoints are a bundle of properties securely stored by the VSTS and is a way for VSTS to connect to the external systems or services.
